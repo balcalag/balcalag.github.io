@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, I’m Bertah1>
+  <p> I am currently studying A levels in Computer Science, Physics and Mathematics, but I still love history, mythology, philosphy, literature. 
+      Revising for my exams can be daunting at times and not pleasurable at all, which feels weird because I'm supposed to love these subjects. I think is because the A-level curriculum doesn't really branch out. 
+      This sounds cliche, I know, but ever since I was little I've been writing sotries, drawing comics, making programs, reading everything that caught my eye. So, I decided to strat this site as a space to really explore the things I'm interesteed in; I'm always reading books, watching documentariaes, listening to lectures and podcarsts-so why not unleash my creativity here?
+      This site won't be just about my school subjects; it'll be a mic of niche interests and ideas I'm passionate about.</p>
+  <h2>My Projects</h2>
+  <ul>
+    <li><strong>Physics Simulations:</strong> coming soon!</li>
+    <li><strong>Study Tracker:</strong> coming soon!</li>
+  </ul>
+</body>
+</html>
